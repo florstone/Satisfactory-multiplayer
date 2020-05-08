@@ -32,6 +32,9 @@ This script will allow you to share and manage a save file between you and your 
 - Type 'exit', the script will sync the most up to date version to the cloud.
 - The next person to host the game should then wait for the save to sync and run the script on their end to update their local file.
 
+## Troubleshooting :
+If the script tells you that a player is already using the save when this is not the case, simply delete the lock.lck file.
+
 ## DISCLAIMER !
 
 Since this script was meant to be used only by me I do not take any responsibility for anything that happens because of it.
