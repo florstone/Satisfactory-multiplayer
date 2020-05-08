@@ -37,6 +37,11 @@ This script will allow you to share and manage a save file between you and your 
 Since this script was meant to be used only by me I do not take any responsibility for anything that happens because of it.
 Powershell is not my main language if you see inconsistencies or optimizations to do do not hesitate to open an issue.
 
+## Thanks and acknowledgements
+
+[patrix87](https://github.com/patrix87) for his script.
+[Nexioh](https://twitter.com/Nexioh) For his help and advices.
+
 ### Security consideration 
 
 Understand that running a cloud hosted PowerShell script on your local computer represent a major security risk. If anyone modify the script they could easily break your computer or way worse. Always copy the script locally and verify it before your run it for the first time. Note that the 7zip files could also be tempered with so you might as well make your own local copy of them to avoid that. *you'll have to edit your copy of the script to match the paths*
