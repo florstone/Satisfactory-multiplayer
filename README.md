@@ -39,8 +39,8 @@ Powershell is not my main language if you see inconsistencies or optimizations t
 
 ## Thanks and acknowledgements
 
-[patrix87](https://github.com/patrix87) for his script.
-[Nexioh](https://twitter.com/Nexioh) For his help and advices.
+- [patrix87](https://github.com/patrix87) for his script.
+- [Nexioh](https://twitter.com/Nexioh) For his help and advices.
 
 ### Security consideration 
 
