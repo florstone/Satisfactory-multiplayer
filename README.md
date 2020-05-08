@@ -19,7 +19,7 @@ This script will allow you to share and manage a save file between you and your 
 - Past the repository directly in your cloud synced folder 
 - Each user should then copy the content of the script folder somewhere on their computer.
 - Once you have your own copy of the script folder you must adjust the different paths and variables to match your local configuration. *(Details in FactoryMultiplayer.ps1 script itself.)*
-- To find your Epic IP please follow this procedure: https://www.epicgames.com/help/en-US/epic-accounts-c74/general-support-c79/what-is-an-epic-account-id-and-where-can-i-find-it-a3659
+- To find your Epic ID please follow this procedure: https://www.epicgames.com/help/en-US/epic-accounts-c74/general-support-c79/what-is-an-epic-account-id-and-where-can-i-find-it-a3659
 - Disable cloud save in the Epic Games Launcher.
 - Start a new game or save an existing game with the name **SharedGame**
 
